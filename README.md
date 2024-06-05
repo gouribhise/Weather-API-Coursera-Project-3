@@ -1,0 +1,1 @@
+A Simple Weather Forecast Website Made Using HTML, CSS, JavaScript & the 7Timer API.
