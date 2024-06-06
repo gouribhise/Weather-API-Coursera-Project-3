@@ -24,7 +24,15 @@ body {
    
   }
 
-   
+   #mySelect{
+    border:none;
+  padding:1%;
+    width:20%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    font-size:1.2rem;
+    font-family: serif;
+   }
 
   .card1{
     background-color:#d0d9ff;
